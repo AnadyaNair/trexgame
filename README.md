@@ -1,10 +1,8 @@
 <p align=center>
-<img src="https://github.com/AnadyaNair/trexgame/blob/be9d6c5171afe53cdf4e69e864d235ae7f0e78b1/congrats-gif.gif"></img>
+<h1>trexgame - My first Github repository.</h1>
+<img height=500 src="https://github.com/AnadyaNair/trexgame/blob/be9d6c5171afe53cdf4e69e864d235ae7f0e78b1/congrats-gif.gif"></img>
 </p>
 <hr>
-
-# trexgame - My first Github repository.
-## This features the the trex running game, made in JavaScript using the [p5.js library](https://p5js.org)
 
 |Project name:|trexgame|
 |:---:|:---:|
